@@ -5,16 +5,16 @@ workflows:
   build_and_push_image:
     jobs:
       - aws-ecr/build-and-push-image:
-          account-url: "543820583940.dkr.ecr.us-east-1.amazonaws.com"
-          aws-access-key-id: "AKIAX5HR3SQCLSMBCGNW"
-          aws-secret-access-key: "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"
+          account-url: ${env_url}
+          aws-access-key-id: ${env_access}
+          aws-secret-access-key: ${env_secret}
           context: myContext
           create-repo: true
           dockerfile: Dockerfile
           no-output-timeout: 20m
           path: .
           profile-name: myProfileName
-          region: "us-east-1"
+          region: ${env_region}
           repo: "myECRRepository"
           skip-when-tags-exist: false
           tag: 'latest,myECRRepoTag'
