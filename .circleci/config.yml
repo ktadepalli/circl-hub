@@ -7,14 +7,14 @@ workflows:
       - aws-ecr/build-and-push-image:
           account-url: env_url
           aws-access-key-id: env_access
-          aws-secret-access-key: ${env_secret}
+          aws-secret-access-key: env_secret
           context: myContext
           create-repo: true
           dockerfile: Dockerfile
           no-output-timeout: 20m
           path: .
           profile-name: myProfileName
-          region: ${env_region}
+          region: env_region
           repo: "myECRRepository"
           skip-when-tags-exist: false
           tag: 'latest,myECRRepoTag'
