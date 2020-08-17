@@ -1,0 +1,30 @@
+{
+  "name": "tdh-api",
+  "version": "1.0.0",
+  "description": "Test data management ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js",
+    "start-prod": "cross-env NODE_ENV=production nodemon --exec babel-node -- index.js"
+
+  },
+  "author": "sai.sistla",
+  "license": "ISC",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "convert-excel-to-json": "^1.6.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "http": "0.0.1-security",
+    "log4js": "^6.2.1",
+    "mysql": "^2.18.1",
+    "pg": "^8.0.3",
+    "psql": "0.0.1",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.2.0"
+  }
+}
