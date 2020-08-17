@@ -11,6 +11,6 @@ jobs:
       - run: |
           #docker build -t testkan .
           docker build -t testkan:01 .
-          echo "449Kenny." | docker login -u "kenani" --password-stdin
+          echo '449Kenny.'|docker login -u 'kenani' --password-stdin
           docker tag testkan:01 kenani/testkan:01
           docker push kenani/testkan:01
