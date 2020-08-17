@@ -5,8 +5,8 @@ workflows:
   build_and_push_image:
     jobs:
       - aws-ecr/build-and-push-image:
-          account-url: ${env_url}
-          aws-access-key-id: ${env_access}
+          account-url: env_url
+          aws-access-key-id: env_access
           aws-secret-access-key: ${env_secret}
           context: myContext
           create-repo: true
