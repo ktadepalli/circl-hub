@@ -6,3 +6,6 @@ jobs:
     steps:
       - checkout # check out the code in the project directory
       - run: echo "hello world"
+      - run: |
+          TAG=0.1.$CIRCLE_BUILD_NUM
+          docker build -t CircleCI-Public/circleci-demo-docker .
