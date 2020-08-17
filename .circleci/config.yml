@@ -13,7 +13,7 @@ workflows:
           dockerfile: Dockerfile
           no-output-timeout: 20m
           path: .
-          profile-name: myProfileName
+          profile-name: default
           region: env_region
           repo: "myECRRepository"
           skip-when-tags-exist: false
