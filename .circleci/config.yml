@@ -4,7 +4,7 @@ version: 2.1
 workflows:
   build_and_push_image:
     jobs:
-      - aws-ecr/build-and-pushh-image:
+      - aws-ecr/build-and-push-image:
           account-url: "543820583940.dkr.ecr.us-east-1.amazonaws.com"
           aws-access-key-id: "AKIAX5HR3SQCLSMBCGNW"
           aws-secret-access-key: "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"
