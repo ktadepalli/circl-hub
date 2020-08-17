@@ -8,7 +8,7 @@ workflows:
           account-url: env_url
           aws-access-key-id: env_access
           aws-secret-access-key: env_secret
-          context: myContext
+          context: .
           create-repo: true
           dockerfile: Dockerfile
           no-output-timeout: 20m
