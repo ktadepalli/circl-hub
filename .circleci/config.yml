@@ -17,4 +17,4 @@ workflows:
           region: env_region
           repo: test1
           skip-when-tags-exist: false
-          tag: 'latest-1,myECRRepoTag1'
+          tag: 'latest-2,myECRRepoTag2'
