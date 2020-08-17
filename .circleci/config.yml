@@ -13,7 +13,7 @@ workflows:
           dockerfile: Dockerfile
           no-output-timeout: 20m
           path: .
-          profile-name: default
+          profile-name: kenani
           region: env_region
           repo: "myECRRepository"
           skip-when-tags-exist: false
