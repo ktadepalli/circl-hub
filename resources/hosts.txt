@@ -1,0 +1,2 @@
+[dev]
+172.20.53.94 ansible_connection=ssh ansible_ssh_user=root

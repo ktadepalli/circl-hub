@@ -1,0 +1,1218 @@
+INFO  12:53:10 Now listening on: https://localhost:5001
+INFO  12:53:10 Now listening on: http://localhost:5000
+INFO  12:53:10 Application started. Press Ctrl+C to shut down.
+INFO  12:53:10 Hosting environment: Development
+INFO  12:53:10 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  12:53:16 Request starting HTTP/2 GET https://localhost:5001/index.html  
+INFO  12:53:16 Request finished in 123.3736ms 200 text/html;charset=utf-8
+INFO  12:53:16 Request starting HTTP/2 GET https://localhost:5001/swagger-ui.css  
+INFO  12:53:16 Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  12:53:16 Request finished in 39.8326ms 200 text/css
+INFO  12:53:16 Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+INFO  12:53:16 Request finished in 180.9482ms 200 application/json;charset=utf-8
+INFO  12:54:45 Application is shutting down...
+INFO  12:59:03 Now listening on: https://localhost:5001
+INFO  12:59:03 Now listening on: http://localhost:5000
+INFO  12:59:03 Application started. Press Ctrl+C to shut down.
+INFO  12:59:03 Hosting environment: Development
+INFO  12:59:03 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  12:59:09 Request starting HTTP/2 GET https://localhost:5001/index.html  
+INFO  12:59:09 Request finished in 117.2882ms 200 text/html;charset=utf-8
+INFO  12:59:09 Request starting HTTP/2 GET https://localhost:5001/swagger-ui.css  
+INFO  12:59:09 Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  12:59:09 Request finished in 51.7733ms 200 text/css
+INFO  12:59:09 Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+INFO  12:59:10 Request finished in 202.4311ms 200 application/json;charset=utf-8
+INFO  01:02:26 Application is shutting down...
+INFO  01:02:53 Now listening on: https://localhost:5001
+INFO  01:02:53 Now listening on: http://localhost:5000
+INFO  01:02:53 Application started. Press Ctrl+C to shut down.
+INFO  01:02:53 Hosting environment: Development
+INFO  01:02:53 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  01:03:00 Request starting HTTP/2 GET https://localhost:5001/index.html  
+INFO  01:03:00 Request finished in 117.0808ms 200 text/html;charset=utf-8
+INFO  01:03:00 Request starting HTTP/2 GET https://localhost:5001/swagger-ui.css  
+INFO  01:03:00 Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  01:03:00 Request finished in 48.5204ms 200 text/css
+INFO  01:03:00 Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+INFO  01:03:01 Request finished in 193.0331ms 200 application/json;charset=utf-8
+INFO  01:04:04 Request starting HTTP/2 GET https://localhost:5001/index.html  
+INFO  01:04:04 Request finished in 3.6302ms 200 text/html;charset=utf-8
+INFO  01:04:04 Request starting HTTP/2 GET https://localhost:5001/swagger-ui.css  
+INFO  01:04:04 Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  01:04:04 Request finished in 10.5544ms 200 text/css
+INFO  01:04:04 Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+INFO  01:04:04 Request finished in 39.8104ms 200 application/json;charset=utf-8
+INFO  01:08:51 Application is shutting down...
+INFO  11:43:33 Now listening on: https://localhost:5001
+INFO  11:43:33 Now listening on: http://localhost:5000
+INFO  11:43:33 Application started. Press Ctrl+C to shut down.
+INFO  11:43:33 Hosting environment: Development
+INFO  11:43:33 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  11:43:56 Application is shutting down...
+INFO  10:17:29 Application started. Press Ctrl+C to shut down.
+INFO  10:17:29 Hosting environment: Development
+INFO  10:17:29 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  10:17:30 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  10:17:31 Request finished in 1024.2669ms 0 
+INFO  10:19:01 Application started. Press Ctrl+C to shut down.
+INFO  10:19:01 Hosting environment: Development
+INFO  10:19:01 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  10:19:01 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  10:19:01 Request finished in 245.9148ms 404 
+INFO  10:20:47 Request starting HTTP/2.0 GET https://localhost:44338/  
+INFO  10:20:47 Request finished in 36.5949ms 301 
+INFO  10:20:47 Request starting HTTP/2.0 GET https://localhost:44338/index.html  
+INFO  10:20:48 Request finished in 449.1359ms 200 text/html;charset=utf-8
+INFO  10:20:48 Request starting HTTP/2.0 GET https://localhost:44338/swagger-ui-standalone-preset.js  
+INFO  10:20:48 Request starting HTTP/2.0 GET https://localhost:44338/swagger-ui-bundle.js  
+INFO  10:20:48 Request starting HTTP/2.0 GET https://localhost:44338/swagger-ui.css  
+INFO  10:20:48 Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  10:20:48 Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  10:20:48 Request finished in 308.9253ms 200 application/javascript
+INFO  10:20:48 Request finished in 304.3181ms 200 text/css
+INFO  10:20:48 Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  10:20:48 Request finished in 342.6092ms 200 application/javascript
+INFO  10:20:49 Request starting HTTP/2.0 GET https://localhost:44338/swagger/v1/swagger.json  
+INFO  10:20:49 Request finished in 526.0117ms 200 application/json;charset=utf-8
+INFO  10:21:45 Application started. Press Ctrl+C to shut down.
+INFO  10:21:45 Hosting environment: Development
+INFO  10:21:45 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  10:21:45 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  10:21:45 Request starting HTTP/2.0 GET https://localhost:44338/favicon.ico  
+INFO  10:21:45 Request finished in 157.085ms 404 
+INFO  10:21:45 Request finished in 157.0996ms 404 
+INFO  10:21:46 Request starting HTTP/2.0 GET https://localhost:44338/favicon.ico  
+INFO  10:21:46 Request finished in 8.8979ms 404 
+INFO  10:22:28 Request starting HTTP/1.1 GET https://localhost:44338/api/Department  
+INFO  10:22:28 Executing endpoint 'RecruitmentAPI.Controllers.DepartmentController.Get (RecruitmentAPI)'
+INFO  10:22:28 Route matched with {action = "Get", controller = "Department"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get() on controller RecruitmentAPI.Controllers.DepartmentController (RecruitmentAPI).
+INFO  10:23:22 Executed action RecruitmentAPI.Controllers.DepartmentController.Get (RecruitmentAPI) in 54089.2869ms
+INFO  10:23:22 Executed endpoint 'RecruitmentAPI.Controllers.DepartmentController.Get (RecruitmentAPI)'
+ERROR 10:23:24 Connection ID "18086456122310393906", Request ID "80000033-0004-fb00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ServerSession.cs:line 442
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 112
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 141
+   at MySql.Data.MySqlClient.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 645
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 312
+   at MySql.Data.MySqlClient.MySqlConnection.Open() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 280
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlRelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at RecruitmentAPI.Repository.Department.GetDetails() in D:\Projects\RecruitmentAPI\RecruitmentAPI\Repository\Department.cs:line 62
+   at RecruitmentAPI.Controllers.DepartmentController.Get() in D:\Projects\RecruitmentAPI\RecruitmentAPI\Controllers\DepartmentController.cs:line 28
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+INFO  10:23:24 Request finished in 56428.3652ms 500 
+INFO  02:23:06 Application started. Press Ctrl+C to shut down.
+INFO  02:23:06 Hosting environment: Development
+INFO  02:23:06 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  02:23:06 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  02:23:07 Request finished in 446.485ms 404 
+INFO  04:46:53 Application started. Press Ctrl+C to shut down.
+INFO  04:46:54 Hosting environment: Development
+INFO  04:46:54 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  04:46:54 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  04:46:54 Request finished in 304.4529ms 404 
+INFO  04:51:29 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration  
+INFO  04:51:29 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  04:51:29 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature Boolean Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  04:51:35 Executing ObjectResult, writing value of type 'System.Boolean'.
+INFO  04:51:35 Executed action RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI) in 6221.0798ms
+INFO  04:51:35 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  04:51:35 Request finished in 6688.2127ms 200 application/json; charset=utf-8
+INFO  05:37:50 Now listening on: https://localhost:5001
+INFO  05:37:50 Now listening on: http://localhost:5000
+INFO  05:37:50 Application started. Press Ctrl+C to shut down.
+INFO  05:37:50 Hosting environment: Development
+INFO  05:37:50 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  05:41:54 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  05:41:54 CORS policy execution successful.
+INFO  05:41:54 Request finished in 157.5378ms 307 
+INFO  05:42:23 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile/Upload  
+INFO  05:42:23 CORS policy execution successful.
+INFO  05:42:23 Request finished in 6.6389ms 204 
+INFO  05:43:22 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  05:43:22 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:43:22 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:43:22 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:43:23 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 270.2657ms
+INFO  05:43:23 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:43:23 Request finished in 594.4428ms 200 application/json; charset=utf-8
+INFO  05:43:23 Request starting HTTP/2 GET https://localhost:5001/favicon.ico  
+INFO  05:43:23 Request finished in 351.505ms 404 
+INFO  05:43:27 Request starting HTTP/1.1 GET http://localhost:5000/api/CreateProfile/Upload  
+INFO  05:43:27 Request finished in 1.5857ms 307 
+INFO  05:43:27 Request starting HTTP/2 GET https://localhost:5001/api/CreateProfile/Upload  
+INFO  05:43:27 Executing endpoint '405 HTTP Method Not Supported'
+INFO  05:43:27 Executed endpoint '405 HTTP Method Not Supported'
+INFO  05:43:27 Request finished in 3.7116ms 405 
+INFO  05:44:18 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  05:44:18 CORS policy execution successful.
+INFO  05:44:18 Request finished in 2.0134ms 307 
+INFO  05:44:18 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  05:44:18 CORS policy execution successful.
+INFO  05:44:18 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:44:18 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:44:18 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:44:18 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 80.2832ms
+INFO  05:44:18 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:44:18 Request finished in 94.0091ms 200 application/json; charset=utf-8
+INFO  05:44:25 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  05:44:25 CORS policy execution successful.
+INFO  05:44:25 Request finished in 1.9465ms 307 
+INFO  05:44:25 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  05:44:25 CORS policy execution successful.
+INFO  05:44:25 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:44:25 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:44:25 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:44:25 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 222.6707ms
+INFO  05:44:25 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:44:25 Request finished in 226.709ms 200 application/json; charset=utf-8
+INFO  05:44:38 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile/Upload  
+INFO  05:44:38 CORS policy execution successful.
+INFO  05:44:38 Request finished in 1.6325ms 204 
+INFO  05:48:04 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  05:48:04 CORS policy execution successful.
+INFO  05:48:04 Request finished in 3.7083ms 307 
+INFO  05:48:05 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  05:48:05 CORS policy execution successful.
+INFO  05:48:05 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:48:05 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:48:05 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:48:05 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 61.0392ms
+INFO  05:48:05 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:48:05 Request finished in 65.4667ms 200 application/json; charset=utf-8
+INFO  05:48:42 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  05:48:42 CORS policy execution successful.
+INFO  05:48:42 Request finished in 1.2191ms 307 
+INFO  05:48:42 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  05:48:42 CORS policy execution successful.
+INFO  05:48:42 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:48:42 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:48:42 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:48:42 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 42.3871ms
+INFO  05:48:42 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:48:42 Request finished in 45.1282ms 200 application/json; charset=utf-8
+INFO  05:48:47 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  05:48:47 CORS policy execution successful.
+INFO  05:48:47 Request finished in 1.9293ms 307 
+INFO  05:48:47 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  05:48:47 CORS policy execution successful.
+INFO  05:48:47 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:48:47 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:48:47 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:48:47 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 36.1921ms
+INFO  05:48:47 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:48:47 Request finished in 38.6485ms 200 application/json; charset=utf-8
+INFO  05:49:03 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile  
+INFO  05:49:03 CORS policy execution successful.
+INFO  05:49:03 Request finished in 1.251ms 204 
+INFO  05:49:03 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile application/json 85
+INFO  05:49:03 CORS policy execution successful.
+INFO  05:49:03 Request finished in 1.1342ms 307 
+INFO  05:49:03 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile  
+INFO  05:49:03 CORS policy execution successful.
+INFO  05:49:03 Request finished in 1.2134ms 204 
+INFO  05:49:03 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile application/json 85
+INFO  05:49:03 CORS policy execution successful.
+INFO  05:49:03 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  05:49:03 Route matched with {action = "CreateProfile", controller = "CreateProfile"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel CreateProfile(RecruitmentAPI.Models.CandidateData) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  05:49:04 Message displayed: About page visited at 5/20/2020 5:49:04 PM
+DEBUG 05:49:04 Login API About page visited at 5/20/2020 5:49:04 PM
+INFO  05:49:04 GetEmployee invoked
+INFO  05:49:06 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  05:49:09 Executed DbCommand (213ms) [Parameters=[@p0='?' (Size = 45), @p1='?' (Size = 45), @p2='?' (Size = 45), @p3='?' (DbType = DateTime), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 10), @p7='?' (Size = 45), @p8='?' (Size = 45), @p9='?' (Size = 45), @p10='?' (DbType = DateTime), @p11='?' (Size = 45), @p12='?' (Size = 45), @p13='?' (Size = 500), @p14='?' (Size = 45), @p15='?' (Size = 200), @p16='?' (Size = 45), @p17='?' (Size = 200), @p18='?' (Size = 500)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `candidate_data` (`address`, `AdharNumber`, `created_by`, `created_date`, `email`, `first_name`, `Gender`, `last_name`, `Middle_Name`, `modified_by`, `modified_date`, `Nationality`, `Passport_No`, `Per_Address`, `phone_number`, `Profile_Pic`, `pwd`, `Resume`, `Temp_Address`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18);
+SELECT `candidate_id`
+FROM `candidate_data`
+WHERE ROW_COUNT() = 1 AND `candidate_id` = LAST_INSERT_ID();
+INFO  05:49:09 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  05:49:10 Executed action RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI) in 6155.7171ms
+INFO  05:49:10 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  05:49:10 Request finished in 6171.4246ms 200 application/json; charset=utf-8
+INFO  05:49:10 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  05:49:10 CORS policy execution successful.
+INFO  05:49:10 Request finished in 0.8799ms 307 
+INFO  05:49:10 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  05:49:10 CORS policy execution successful.
+INFO  05:49:10 Request finished in 0.424ms 307 
+INFO  05:49:10 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  05:49:10 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  05:49:10 CORS policy execution successful.
+INFO  05:49:10 CORS policy execution successful.
+INFO  05:49:10 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:49:10 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:49:10 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:49:10 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  05:49:10 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:49:10 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 3.7571ms
+INFO  05:49:10 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:49:10 Request finished in 6.5556ms 200 application/json; charset=utf-8
+INFO  05:49:10 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  05:49:10 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 57.643ms
+INFO  05:49:10 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  05:49:10 Request finished in 60.1438ms 200 application/json; charset=utf-8
+INFO  06:01:21 Application is shutting down...
+INFO  06:11:07 Now listening on: https://localhost:5001
+INFO  06:11:07 Now listening on: http://localhost:5000
+INFO  06:11:07 Application started. Press Ctrl+C to shut down.
+INFO  06:11:07 Hosting environment: Development
+INFO  06:11:07 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  06:11:53 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  06:11:53 CORS policy execution successful.
+INFO  06:11:53 Request finished in 102.4215ms 307 
+INFO  06:11:53 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  06:11:53 CORS policy execution successful.
+INFO  06:11:53 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:11:53 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:11:54 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:11:54 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 327.0744ms
+INFO  06:11:54 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:11:54 Request finished in 515.4745ms 200 application/json; charset=utf-8
+INFO  06:12:13 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile  
+INFO  06:12:13 CORS policy execution successful.
+INFO  06:12:13 Request finished in 3.4647ms 204 
+INFO  06:12:13 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile application/json 87
+INFO  06:12:13 CORS policy execution successful.
+INFO  06:12:13 Request finished in 0.7583ms 307 
+INFO  06:12:13 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile  
+INFO  06:12:13 CORS policy execution successful.
+INFO  06:12:13 Request finished in 0.6378ms 204 
+INFO  06:12:13 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile application/json 87
+INFO  06:12:13 CORS policy execution successful.
+INFO  06:12:13 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  06:12:13 Route matched with {action = "CreateProfile", controller = "CreateProfile"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel CreateProfile(RecruitmentAPI.Models.CandidateData) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  06:12:13 Message displayed: About page visited at 5/20/2020 6:12:13 PM
+DEBUG 06:12:13 Login API About page visited at 5/20/2020 6:12:13 PM
+INFO  06:12:13 GetEmployee invoked
+INFO  06:12:16 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  06:12:18 Executed DbCommand (250ms) [Parameters=[@p0='?' (Size = 45), @p1='?' (Size = 45), @p2='?' (Size = 45), @p3='?' (DbType = DateTime), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 10), @p7='?' (Size = 45), @p8='?' (Size = 45), @p9='?' (Size = 45), @p10='?' (DbType = DateTime), @p11='?' (Size = 45), @p12='?' (Size = 45), @p13='?' (Size = 500), @p14='?' (Size = 45), @p15='?' (Size = 200), @p16='?' (Size = 45), @p17='?' (Size = 200), @p18='?' (Size = 500)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `candidate_data` (`address`, `AdharNumber`, `created_by`, `created_date`, `email`, `first_name`, `Gender`, `last_name`, `Middle_Name`, `modified_by`, `modified_date`, `Nationality`, `Passport_No`, `Per_Address`, `phone_number`, `Profile_Pic`, `pwd`, `Resume`, `Temp_Address`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18);
+SELECT `candidate_id`
+FROM `candidate_data`
+WHERE ROW_COUNT() = 1 AND `candidate_id` = LAST_INSERT_ID();
+INFO  06:12:18 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  06:12:18 Executed action RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI) in 5168.9439ms
+INFO  06:12:18 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  06:12:18 Request finished in 5189.8303ms 200 application/json; charset=utf-8
+INFO  06:12:18 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  06:12:18 CORS policy execution successful.
+INFO  06:12:18 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  06:12:18 Request finished in 2.3098ms 307 
+INFO  06:12:18 CORS policy execution successful.
+INFO  06:12:18 Request finished in 0.649ms 307 
+INFO  06:12:18 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  06:12:18 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  06:12:18 CORS policy execution successful.
+INFO  06:12:18 CORS policy execution successful.
+INFO  06:12:18 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:12:18 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:12:18 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:12:18 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:12:18 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:12:18 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 6.4509ms
+INFO  06:12:18 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:12:18 Request finished in 9.4449ms 200 application/json; charset=utf-8
+INFO  06:12:18 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:12:18 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 78.2631ms
+INFO  06:12:18 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:12:18 Request finished in 80.585ms 200 application/json; charset=utf-8
+INFO  06:14:06 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/Registration  
+INFO  06:14:06 CORS policy execution successful.
+INFO  06:14:06 Request finished in 3.1694ms 204 
+INFO  06:14:07 Request starting HTTP/1.1 POST http://localhost:5000/api/Registration application/json 1340
+INFO  06:14:07 CORS policy execution successful.
+INFO  06:14:07 Request finished in 2.7518ms 307 
+INFO  06:14:07 Request starting HTTP/2 OPTIONS https://localhost:5001/api/Registration  
+INFO  06:14:07 CORS policy execution successful.
+INFO  06:14:07 Request finished in 4.7012ms 204 
+INFO  06:14:07 Request starting HTTP/2 POST https://localhost:5001/api/Registration application/json 1340
+INFO  06:14:07 CORS policy execution successful.
+INFO  06:14:07 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.RegisterCandidate (RecruitmentAPI)'
+INFO  06:14:07 Route matched with {action = "RegisterCandidate", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel RegisterCandidate(RecruitmentAPI.Models.RegistrationModel) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  06:14:07 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  06:14:08 Executed DbCommand (135ms) [Parameters=[@__req_CandidateId_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT `c`.`candidate_id`, `c`.`address`, `c`.`AdharNumber`, `c`.`created_by`, `c`.`created_date`, `c`.`email`, `c`.`first_name`, `c`.`Gender`, `c`.`last_name`, `c`.`Middle_Name`, `c`.`modified_by`, `c`.`modified_date`, `c`.`Nationality`, `c`.`Passport_No`, `c`.`Per_Address`, `c`.`phone_number`, `c`.`Profile_Pic`, `c`.`pwd`, `c`.`Resume`, `c`.`Temp_Address`
+FROM `candidate_data` AS `c`
+WHERE `c`.`candidate_id` = @__req_CandidateId_0
+LIMIT 1
+INFO  06:14:08 Executed DbCommand (126ms) [Parameters=[@p12='?' (DbType = Int32), @p0='?' (Size = 45), @p1='?' (Size = 10), @p2='?' (Size = 45), @p3='?' (DbType = DateTime), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 500), @p7='?' (Size = 45), @p8='?' (Size = 200), @p9='?' (Size = 45), @p10='?' (Size = 200), @p11='?' (Size = 500)], CommandType='Text', CommandTimeout='30']
+UPDATE `candidate_data` SET `AdharNumber` = @p0, `Gender` = @p1, `Middle_Name` = @p2, `modified_date` = @p3, `Nationality` = @p4, `Passport_No` = @p5, `Per_Address` = @p6, `phone_number` = @p7, `Profile_Pic` = @p8, `pwd` = @p9, `Resume` = @p10, `Temp_Address` = @p11
+WHERE `candidate_id` = @p12;
+SELECT ROW_COUNT();
+INFO  06:14:09 Executed DbCommand (131ms) [Parameters=[@p0='?' (Size = 500), @p1='?' (DbType = Int32), @p2='?' (Size = 100), @p3='?' (Size = 45), @p4='?' (DbType = SByte), @p5='?' (Size = 500), @p6='?' (Size = 100), @p7='?' (Size = 45), @p8='?' (Size = 500)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `additional_details` (`AdditionalDocs`, `candidate_id`, `Channel`, `Duration`, `IsExEmployee`, `Reason`, `ReferredBy`, `ReferredById`, `WhyValueLabs`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+SELECT `id`
+FROM `additional_details`
+WHERE ROW_COUNT() = 1 AND `id` = LAST_INSERT_ID();
+INFO  06:14:10 Executed DbCommand (137ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 45), @p2='?' (Size = 100), @p3='?' (Size = 100), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `education_details` (`Candidate_id`, `Course`, `Institution`, `Location`, `Percentage`, `Stream`, `YearOfPassing`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT `Id`
+FROM `education_details`
+WHERE ROW_COUNT() = 1 AND `Id` = LAST_INSERT_ID();
+INFO  06:14:10 Executed DbCommand (118ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 45), @p2='?' (Size = 100), @p3='?' (Size = 100), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `education_details` (`Candidate_id`, `Course`, `Institution`, `Location`, `Percentage`, `Stream`, `YearOfPassing`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT `Id`
+FROM `education_details`
+WHERE ROW_COUNT() = 1 AND `Id` = LAST_INSERT_ID();
+INFO  06:14:11 Executed DbCommand (127ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 45), @p2='?' (Size = 100), @p3='?' (Size = 100), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `education_details` (`Candidate_id`, `Course`, `Institution`, `Location`, `Percentage`, `Stream`, `YearOfPassing`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT `Id`
+FROM `education_details`
+WHERE ROW_COUNT() = 1 AND `Id` = LAST_INSERT_ID();
+INFO  06:14:11 Executed DbCommand (138ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 45), @p2='?' (Size = 100), @p3='?' (Size = 100), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 4)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `education_details` (`Candidate_id`, `Course`, `Institution`, `Location`, `Percentage`, `Stream`, `YearOfPassing`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT `Id`
+FROM `education_details`
+WHERE ROW_COUNT() = 1 AND `Id` = LAST_INSERT_ID();
+INFO  06:14:12 Executed DbCommand (111ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (DbType = Int32), @p3='?' (Size = 45), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 45)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `skills_details` (`candidate_id`, `ExpInMonths`, `ExpInYrs`, `Last_Used`, `Skills`, `Type`, `Version`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6);
+SELECT `id`
+FROM `skills_details`
+WHERE ROW_COUNT() = 1 AND `id` = LAST_INSERT_ID();
+INFO  06:14:12 Executed DbCommand (132ms) [Parameters=[@p0='?' (Size = 250), @p1='?' (Size = 250), @p2='?' (DbType = Int32), @p3='?' (Size = 100), @p4='?' (Size = 100), @p5='?' (DbType = SByte), @p6='?' (Size = 250), @p7='?' (Size = 100), @p8='?' (Size = 3)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `address_details` (`Address1`, `Address2`, `candidate_id`, `City`, `Country`, `IsSame`, `Landmark`, `State`, `Type`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8);
+SELECT `id`
+FROM `address_details`
+WHERE ROW_COUNT() = 1 AND `id` = LAST_INSERT_ID();
+INFO  06:14:13 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  06:14:13 Executed action RecruitmentAPI.Controllers.RegistrationController.RegisterCandidate (RecruitmentAPI) in 5982.8289ms
+INFO  06:14:13 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.RegisterCandidate (RecruitmentAPI)'
+INFO  06:14:13 Request finished in 5996.6949ms 200 application/json; charset=utf-8
+INFO  06:28:12 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  06:28:12 CORS policy execution successful.
+INFO  06:28:12 Request finished in 1.5287ms 307 
+INFO  06:28:12 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  06:28:12 CORS policy execution successful.
+INFO  06:28:12 Request finished in 0.5615ms 307 
+INFO  06:28:12 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  06:28:12 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  06:28:12 CORS policy execution successful.
+INFO  06:28:12 CORS policy execution successful.
+INFO  06:28:12 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:28:12 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:28:12 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:28:12 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:28:12 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:28:12 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 3.9789ms
+INFO  06:28:12 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:28:12 Request finished in 6.7131ms 200 application/json; charset=utf-8
+INFO  06:28:12 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:28:12 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 144.7499ms
+INFO  06:28:12 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:28:12 Request finished in 147.4579ms 200 application/json; charset=utf-8
+INFO  06:29:06 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  06:29:06 CORS policy execution successful.
+INFO  06:29:06 Request finished in 1.7797ms 307 
+INFO  06:29:06 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  06:29:06 CORS policy execution successful.
+INFO  06:29:06 Request finished in 1.2121ms 307 
+INFO  06:29:06 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  06:29:06 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  06:29:06 CORS policy execution successful.
+INFO  06:29:06 CORS policy execution successful.
+INFO  06:29:06 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:29:06 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:29:06 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:29:06 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:29:06 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:29:06 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 7.8701ms
+INFO  06:29:06 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:29:06 Request finished in 10.3397ms 200 application/json; charset=utf-8
+INFO  06:29:06 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:29:06 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 52.937ms
+INFO  06:29:06 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:29:06 Request finished in 54.996ms 200 application/json; charset=utf-8
+INFO  06:33:16 Request starting HTTP/2 GET https://localhost:5001/  
+INFO  06:33:16 Request finished in 671.5545ms 301 
+INFO  06:33:16 Request starting HTTP/2 GET https://localhost:5001/index.html  
+INFO  06:33:16 Request finished in 135.245ms 200 text/html;charset=utf-8
+INFO  06:33:17 Request starting HTTP/2 GET https://localhost:5001/swagger-ui-standalone-preset.js  
+INFO  06:33:17 Request starting HTTP/2 GET https://localhost:5001/swagger-ui.css  
+INFO  06:33:17 Request starting HTTP/2 GET https://localhost:5001/swagger-ui-bundle.js  
+INFO  06:33:17 Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  06:33:17 Request finished in 415.5324ms 200 text/css
+INFO  06:33:17 Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  06:33:17 Request finished in 489.9528ms 200 application/javascript
+INFO  06:33:18 Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  06:33:18 Request finished in 698.0372ms 200 application/javascript
+INFO  06:33:18 Request starting HTTP/2 GET https://localhost:5001/swagger/v1/swagger.json  
+INFO  06:33:19 Request finished in 684.7843ms 200 application/json;charset=utf-8
+INFO  06:34:11 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  06:34:11 CORS policy execution successful.
+INFO  06:34:11 Request finished in 1.1811ms 307 
+INFO  06:34:11 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  06:34:11 CORS policy execution successful.
+INFO  06:34:11 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:34:11 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:34:11 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:34:11 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 29.4031ms
+INFO  06:34:11 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:34:11 Request finished in 31.6587ms 200 application/json; charset=utf-8
+INFO  06:36:00 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile/Upload  
+INFO  06:36:00 CORS policy execution successful.
+INFO  06:36:00 Request finished in 0.9124ms 204 
+INFO  06:36:00 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundaryhy9FtJLCVBiBHjQK 15871
+INFO  06:36:00 CORS policy execution successful.
+INFO  06:36:00 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  06:36:00 Route matched with {action = "UploadDocument", controller = "CreateProfile"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadDocument(Microsoft.AspNetCore.Http.IFormFile) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  06:36:00 Upload fileName displayed: 
+INFO  06:36:00 Executing ObjectResult, writing value of type '<>f__AnonymousType0`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+INFO  06:36:00 Executed action RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI) in 470.9696ms
+INFO  06:36:00 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  06:36:00 Request finished in 582.1507ms 200 application/json; charset=utf-8
+INFO  06:36:04 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile  
+INFO  06:36:04 CORS policy execution successful.
+INFO  06:36:04 Request finished in 0.6623ms 204 
+INFO  06:36:04 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile application/json 292
+INFO  06:36:04 CORS policy execution successful.
+INFO  06:36:04 Request finished in 0.58ms 307 
+INFO  06:36:04 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile  
+INFO  06:36:04 CORS policy execution successful.
+INFO  06:36:04 Request finished in 1.0311ms 204 
+INFO  06:36:04 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile application/json 292
+INFO  06:36:04 CORS policy execution successful.
+INFO  06:36:04 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  06:36:04 Route matched with {action = "CreateProfile", controller = "CreateProfile"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel CreateProfile(RecruitmentAPI.Models.CandidateData) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  06:36:04 Message displayed: About page visited at 5/20/2020 6:36:04 PM
+DEBUG 06:36:04 Login API About page visited at 5/20/2020 6:36:04 PM
+INFO  06:36:04 GetEmployee invoked
+INFO  06:36:04 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  06:36:05 Executed DbCommand (216ms) [Parameters=[@p0='?' (Size = 45), @p1='?' (Size = 45), @p2='?' (Size = 45), @p3='?' (DbType = DateTime), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 10), @p7='?' (Size = 45), @p8='?' (Size = 45), @p9='?' (Size = 45), @p10='?' (DbType = DateTime), @p11='?' (Size = 45), @p12='?' (Size = 45), @p13='?' (Size = 500), @p14='?' (Size = 45), @p15='?' (Size = 200), @p16='?' (Size = 45), @p17='?' (Size = 200), @p18='?' (Size = 500)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `candidate_data` (`address`, `AdharNumber`, `created_by`, `created_date`, `email`, `first_name`, `Gender`, `last_name`, `Middle_Name`, `modified_by`, `modified_date`, `Nationality`, `Passport_No`, `Per_Address`, `phone_number`, `Profile_Pic`, `pwd`, `Resume`, `Temp_Address`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18);
+SELECT `candidate_id`
+FROM `candidate_data`
+WHERE ROW_COUNT() = 1 AND `candidate_id` = LAST_INSERT_ID();
+INFO  06:36:05 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  06:36:05 Executed action RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI) in 1390.2565ms
+INFO  06:36:05 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  06:36:05 Request finished in 1393.2941ms 200 application/json; charset=utf-8
+INFO  06:36:05 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  06:36:05 CORS policy execution successful.
+INFO  06:36:05 Request finished in 1.0127ms 307 
+INFO  06:36:05 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  06:36:05 CORS policy execution successful.
+INFO  06:36:05 Request finished in 0.5397ms 307 
+INFO  06:36:05 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  06:36:05 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  06:36:05 CORS policy execution successful.
+INFO  06:36:05 CORS policy execution successful.
+INFO  06:36:05 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:36:05 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:36:05 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:36:05 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  06:36:05 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:36:05 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 3.6304ms
+INFO  06:36:05 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:36:05 Request finished in 5.437ms 200 application/json; charset=utf-8
+INFO  06:36:05 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  06:36:05 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 38.9485ms
+INFO  06:36:05 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  06:36:05 Request finished in 40.5616ms 200 application/json; charset=utf-8
+INFO  07:46:46 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  07:46:46 CORS policy execution successful.
+INFO  07:46:46 Request finished in 4.3028ms 307 
+INFO  07:46:46 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  07:46:46 CORS policy execution successful.
+INFO  07:46:46 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:46:46 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  07:46:46 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  07:46:46 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 65.6211ms
+INFO  07:46:46 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:46:46 Request finished in 71.3464ms 200 application/json; charset=utf-8
+INFO  07:47:10 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  07:47:10 CORS policy execution successful.
+INFO  07:47:10 Request finished in 0.7407ms 307 
+INFO  07:47:10 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  07:47:10 CORS policy execution successful.
+INFO  07:47:10 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:47:10 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  07:47:10 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  07:47:10 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 61.2693ms
+INFO  07:47:10 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:47:10 Request finished in 63.3343ms 200 application/json; charset=utf-8
+INFO  07:47:33 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile  
+INFO  07:47:33 CORS policy execution successful.
+INFO  07:47:33 Request finished in 0.819ms 204 
+INFO  07:47:33 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile application/json 89
+INFO  07:47:33 CORS policy execution successful.
+INFO  07:47:33 Request finished in 0.6403ms 307 
+INFO  07:47:33 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile  
+INFO  07:47:33 CORS policy execution successful.
+INFO  07:47:33 Request finished in 1.508ms 204 
+INFO  07:47:33 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile application/json 89
+INFO  07:47:33 CORS policy execution successful.
+INFO  07:47:33 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  07:47:33 Route matched with {action = "CreateProfile", controller = "CreateProfile"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel CreateProfile(RecruitmentAPI.Models.CandidateData) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  07:47:33 Message displayed: About page visited at 5/20/2020 7:47:33 PM
+DEBUG 07:47:33 Login API About page visited at 5/20/2020 7:47:33 PM
+INFO  07:47:33 GetEmployee invoked
+INFO  07:47:33 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  07:47:34 Executed DbCommand (106ms) [Parameters=[@p0='?' (Size = 45), @p1='?' (Size = 45), @p2='?' (Size = 45), @p3='?' (DbType = DateTime), @p4='?' (Size = 45), @p5='?' (Size = 45), @p6='?' (Size = 10), @p7='?' (Size = 45), @p8='?' (Size = 45), @p9='?' (Size = 45), @p10='?' (DbType = DateTime), @p11='?' (Size = 45), @p12='?' (Size = 45), @p13='?' (Size = 500), @p14='?' (Size = 45), @p15='?' (Size = 200), @p16='?' (Size = 45), @p17='?' (Size = 200), @p18='?' (Size = 500)], CommandType='Text', CommandTimeout='30']
+INSERT INTO `candidate_data` (`address`, `AdharNumber`, `created_by`, `created_date`, `email`, `first_name`, `Gender`, `last_name`, `Middle_Name`, `modified_by`, `modified_date`, `Nationality`, `Passport_No`, `Per_Address`, `phone_number`, `Profile_Pic`, `pwd`, `Resume`, `Temp_Address`)
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, @p16, @p17, @p18);
+SELECT `candidate_id`
+FROM `candidate_data`
+WHERE ROW_COUNT() = 1 AND `candidate_id` = LAST_INSERT_ID();
+INFO  07:47:34 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  07:47:34 Executed action RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI) in 1064.1161ms
+INFO  07:47:34 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.CreateProfile (RecruitmentAPI)'
+INFO  07:47:34 Request finished in 1068.094ms 200 application/json; charset=utf-8
+INFO  07:47:34 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  07:47:34 CORS policy execution successful.
+INFO  07:47:34 Request finished in 0.6775ms 307 
+INFO  07:47:34 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  07:47:34 CORS policy execution successful.
+INFO  07:47:34 Request finished in 1.4127ms 307 
+INFO  07:47:34 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  07:47:34 CORS policy execution successful.
+INFO  07:47:34 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  07:47:34 CORS policy execution successful.
+INFO  07:47:34 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:47:34 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:47:34 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  07:47:34 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  07:47:34 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  07:47:34 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 3.3001ms
+INFO  07:47:34 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:47:34 Request finished in 5.3506ms 200 application/json; charset=utf-8
+INFO  07:47:34 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  07:47:34 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 59.1931ms
+INFO  07:47:34 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  07:47:34 Request finished in 60.9384ms 200 application/json; charset=utf-8
+INFO  08:23:55 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  08:23:55 CORS policy execution successful.
+INFO  08:23:55 Request finished in 3.5046ms 307 
+INFO  08:23:55 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  08:23:55 CORS policy execution successful.
+INFO  08:23:55 Request finished in 3.6676ms 307 
+INFO  08:23:55 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  08:23:55 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  08:23:55 CORS policy execution successful.
+INFO  08:23:55 CORS policy execution successful.
+INFO  08:23:55 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:55 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:55 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:23:55 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:23:55 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:23:55 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 6.1207ms
+INFO  08:23:55 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:55 Request finished in 11.0977ms 200 application/json; charset=utf-8
+INFO  08:23:55 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:23:55 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 47.7311ms
+INFO  08:23:55 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:55 Request finished in 52.3187ms 200 application/json; charset=utf-8
+INFO  08:23:58 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  08:23:58 CORS policy execution successful.
+INFO  08:23:58 Request finished in 0.5631ms 307 
+INFO  08:23:58 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  08:23:58 CORS policy execution successful.
+INFO  08:23:58 Request finished in 0.3461ms 307 
+INFO  08:23:58 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  08:23:58 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  08:23:58 CORS policy execution successful.
+INFO  08:23:58 CORS policy execution successful.
+INFO  08:23:58 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:58 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:58 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:23:58 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:23:58 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:23:58 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 2.6281ms
+INFO  08:23:58 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:58 Request finished in 4.0087ms 200 application/json; charset=utf-8
+INFO  08:23:59 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:23:59 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 59.9478ms
+INFO  08:23:59 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:23:59 Request finished in 61.2904ms 200 application/json; charset=utf-8
+INFO  08:24:44 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  08:24:44 CORS policy execution successful.
+INFO  08:24:44 Request finished in 0.292ms 307 
+INFO  08:24:44 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  08:24:44 CORS policy execution successful.
+INFO  08:24:44 Request finished in 0.481ms 307 
+INFO  08:24:44 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  08:24:44 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  08:24:44 CORS policy execution successful.
+INFO  08:24:44 CORS policy execution successful.
+INFO  08:24:44 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:44 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:44 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:24:44 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:24:44 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:24:44 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 3.1151ms
+INFO  08:24:44 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:44 Request finished in 4.3871ms 200 application/json; charset=utf-8
+INFO  08:24:44 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:24:44 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 38.6381ms
+INFO  08:24:44 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:44 Request finished in 39.9228ms 200 application/json; charset=utf-8
+INFO  08:24:44 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  08:24:44 CORS policy execution successful.
+INFO  08:24:44 Request finished in 0.4193ms 307 
+INFO  08:24:44 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  08:24:44 CORS policy execution successful.
+INFO  08:24:44 Request finished in 0.88ms 307 
+INFO  08:24:45 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  08:24:45 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  08:24:45 CORS policy execution successful.
+INFO  08:24:45 CORS policy execution successful.
+INFO  08:24:45 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:45 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:24:45 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:45 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:24:45 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:24:45 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 3.4717ms
+INFO  08:24:45 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:45 Request finished in 5.5983ms 200 application/json; charset=utf-8
+INFO  08:24:45 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:24:45 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 93.9812ms
+INFO  08:24:45 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:24:45 Request finished in 95.234ms 200 application/json; charset=utf-8
+INFO  08:25:10 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 Request finished in 0.3641ms 307 
+INFO  08:25:10 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 Request finished in 1.0638ms 307 
+INFO  08:25:10 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  08:25:10 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:25:10 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:25:10 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 3.2861ms
+INFO  08:25:10 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Request finished in 5.4376ms 200 application/json; charset=utf-8
+INFO  08:25:10 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:25:10 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:25:10 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 73.8195ms
+INFO  08:25:10 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Request finished in 89.5408ms 200 application/json; charset=utf-8
+INFO  08:25:10 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Gender  
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 Request finished in 0.3955ms 307 
+INFO  08:25:10 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 Request finished in 0.5351ms 307 
+INFO  08:25:10 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Gender  
+INFO  08:25:10 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 CORS policy execution successful.
+INFO  08:25:10 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:25:10 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  08:25:10 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:25:10 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 4.0113ms
+INFO  08:25:10 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Request finished in 7.8727ms 200 application/json; charset=utf-8
+INFO  08:25:10 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  08:25:10 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 59.0959ms
+INFO  08:25:10 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  08:25:10 Request finished in 60.4292ms 200 application/json; charset=utf-8
+INFO  08:39:46 Application is shutting down...
+INFO  09:56:32 Application started. Press Ctrl+C to shut down.
+INFO  09:56:32 Hosting environment: Development
+INFO  09:56:32 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  09:56:32 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  09:56:33 Request finished in 368.7893ms 404 
+INFO  09:57:37 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration  
+INFO  09:57:37 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  09:57:37 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  09:57:46 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+ERROR 09:58:02 An error occurred using the connection to database 'hris_tag' on server '172.20.53.95'.
+ERROR 09:58:03 An exception occurred while iterating over the results of a query for context type 'RecruitmentAPI.Models.hris_recruitment_dbContext'.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ServerSession.cs:line 442
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 112
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 141
+   at MySql.Data.MySqlClient.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 645
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 312
+   at MySql.Data.MySqlClient.MySqlConnection.Open() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 280
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlRelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ServerSession.cs:line 442
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 112
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 141
+   at MySql.Data.MySqlClient.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 645
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 312
+   at MySql.Data.MySqlClient.MySqlConnection.Open() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 280
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlRelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+INFO  09:59:00 Application started. Press Ctrl+C to shut down.
+INFO  09:59:00 Hosting environment: Development
+INFO  09:59:00 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  09:59:00 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  09:59:00 Request finished in 139.766ms 404 
+INFO  09:59:22 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration?id=1  
+INFO  09:59:22 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  09:59:22 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  09:59:26 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+ERROR 09:59:42 An error occurred using the connection to database 'hris_tag' on server '172.20.53.95'.
+ERROR 09:59:42 An exception occurred while iterating over the results of a query for context type 'RecruitmentAPI.Models.hris_recruitment_dbContext'.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ServerSession.cs:line 442
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 112
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 141
+   at MySql.Data.MySqlClient.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 645
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 312
+   at MySql.Data.MySqlClient.MySqlConnection.Open() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 280
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlRelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ServerSession.cs:line 442
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 112
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 141
+   at MySql.Data.MySqlClient.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 645
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 312
+   at MySql.Data.MySqlClient.MySqlConnection.Open() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 280
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlRelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+INFO  10:00:58 Executed action RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI) in 95967.8085ms
+INFO  10:00:58 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+ERROR 10:00:58 Connection ID "18374686511347007504", Request ID "80000011-0007-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure()' to the 'UseMySql' call.
+ ---> MySql.Data.MySqlClient.MySqlException (0x80004005): Unable to connect to any of the specified MySQL hosts.
+   at MySqlConnector.Core.ServerSession.ConnectAsync(ConnectionSettings cs, ILoadBalancer loadBalancer, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ServerSession.cs:line 442
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 112
+   at MySqlConnector.Core.ConnectionPool.GetSessionAsync(MySqlConnection connection, IOBehavior ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\Core\ConnectionPool.cs:line 141
+   at MySql.Data.MySqlClient.MySqlConnection.CreateSessionAsync(ConnectionPool pool, Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 645
+   at MySql.Data.MySqlClient.MySqlConnection.OpenAsync(Nullable`1 ioBehavior, CancellationToken cancellationToken) in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 312
+   at MySql.Data.MySqlClient.MySqlConnection.Open() in C:\projects\mysqlconnector\src\MySqlConnector\MySql.Data.MySqlClient\MySqlConnection.cs:line 280
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenDbConnection(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Open(Boolean errorsExpected)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlRelationalConnection.Open(Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.InitializeReader(DbContext _, Boolean result)
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   --- End of inner exception stack trace ---
+   at Pomelo.EntityFrameworkCore.MySql.Storage.Internal.MySqlExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source)
+   at Microsoft.EntityFrameworkCore.Query.Internal.QueryCompiler.Execute[TResult](Expression query)
+   at Microsoft.EntityFrameworkCore.Query.Internal.EntityQueryProvider.Execute[TResult](Expression expression)
+   at System.Linq.Queryable.FirstOrDefault[TSource](IQueryable`1 source)
+   at RecruitmentAPI.Repository.Recruitment.GetCandidateById(Int32 id) in D:\Projects\RecruitmentAPI\RecruitmentAPI\Repository\Recruitment.cs:line 195
+   at RecruitmentAPI.Controllers.RegistrationController.Get(Int32 id) in D:\Projects\RecruitmentAPI\RecruitmentAPI\Controllers\RegistrationController.cs:line 154
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+INFO  10:00:58 Request finished in 96373.1176ms 500 
+INFO  10:01:03 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration?id=1  
+INFO  10:01:03 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  10:01:03 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  10:01:06 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  10:01:07 Executed DbCommand (187ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT `c`.`candidate_id`, `c`.`address`, `c`.`AdharNumber`, `c`.`created_by`, `c`.`created_date`, `c`.`email`, `c`.`first_name`, `c`.`Gender`, `c`.`last_name`, `c`.`Middle_Name`, `c`.`modified_by`, `c`.`modified_date`, `c`.`Nationality`, `c`.`Passport_No`, `c`.`Per_Address`, `c`.`phone_number`, `c`.`Profile_Pic`, `c`.`pwd`, `c`.`Resume`, `c`.`Temp_Address`
+FROM `candidate_data` AS `c`
+WHERE `c`.`candidate_id` = @__id_0
+LIMIT 1
+INFO  10:01:08 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  10:01:08 Executed action RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI) in 4726.1452ms
+INFO  10:01:08 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  10:01:08 Request finished in 4760.8531ms 200 application/json; charset=utf-8
+INFO  10:01:39 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration?id=3  
+INFO  10:01:39 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  10:01:39 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  10:01:42 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  10:01:42 Executed DbCommand (99ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT `c`.`candidate_id`, `c`.`address`, `c`.`AdharNumber`, `c`.`created_by`, `c`.`created_date`, `c`.`email`, `c`.`first_name`, `c`.`Gender`, `c`.`last_name`, `c`.`Middle_Name`, `c`.`modified_by`, `c`.`modified_date`, `c`.`Nationality`, `c`.`Passport_No`, `c`.`Per_Address`, `c`.`phone_number`, `c`.`Profile_Pic`, `c`.`pwd`, `c`.`Resume`, `c`.`Temp_Address`
+FROM `candidate_data` AS `c`
+WHERE `c`.`candidate_id` = @__id_0
+LIMIT 1
+INFO  10:01:42 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  10:01:42 Executed action RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI) in 2954.3441ms
+INFO  10:01:42 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  10:01:42 Request finished in 2986.8673ms 200 application/json; charset=utf-8
+INFO  11:06:37 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration?id=3  
+INFO  11:06:37 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  11:06:37 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  11:06:40 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  11:06:41 Executed DbCommand (112ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT `c`.`candidate_id`, `c`.`address`, `c`.`AdharNumber`, `c`.`created_by`, `c`.`created_date`, `c`.`email`, `c`.`first_name`, `c`.`Gender`, `c`.`last_name`, `c`.`Middle_Name`, `c`.`modified_by`, `c`.`modified_date`, `c`.`Nationality`, `c`.`Passport_No`, `c`.`Per_Address`, `c`.`phone_number`, `c`.`Profile_Pic`, `c`.`pwd`, `c`.`Resume`, `c`.`Temp_Address`
+FROM `candidate_data` AS `c`
+WHERE `c`.`candidate_id` = @__id_0
+LIMIT 1
+INFO  11:06:41 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  11:06:41 Executed action RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI) in 3989.9716ms
+INFO  11:06:41 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  11:06:41 Request finished in 4012.6309ms 200 application/json; charset=utf-8
+INFO  01:46:21 Now listening on: https://localhost:5001
+INFO  01:46:21 Now listening on: http://localhost:5000
+INFO  01:46:21 Application started. Press Ctrl+C to shut down.
+INFO  01:46:21 Hosting environment: Development
+INFO  01:46:21 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  01:49:03 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  01:49:03 CORS policy execution successful.
+INFO  01:49:04 Request finished in 251.6757ms 307 
+INFO  01:49:04 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  01:49:04 CORS policy execution successful.
+INFO  01:49:05 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:49:05 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  01:49:06 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  01:49:06 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 650.4602ms
+INFO  01:49:06 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:49:06 Request finished in 1407.8661ms 200 application/json; charset=utf-8
+INFO  01:49:54 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile/Upload  
+INFO  01:49:54 CORS policy execution successful.
+INFO  01:49:54 Request finished in 3.7814ms 204 
+INFO  01:49:54 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundaryFeuO2tOLvbYRyCiv 15871
+INFO  01:49:54 CORS policy execution successful.
+INFO  01:49:54 Request finished in 0.75ms 307 
+INFO  01:49:54 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile/Upload  
+INFO  01:49:54 CORS policy execution successful.
+INFO  01:49:54 Request finished in 1.034ms 204 
+INFO  01:49:54 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundaryFeuO2tOLvbYRyCiv 15871
+INFO  01:49:54 CORS policy execution successful.
+INFO  01:49:54 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:49:54 Route matched with {action = "UploadDocument", controller = "CreateProfile"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadDocument(Microsoft.AspNetCore.Http.IFormFile) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  01:49:55 Upload fileName displayed: 
+INFO  01:49:55 Executing ObjectResult, writing value of type '<>f__AnonymousType0`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+INFO  01:49:55 Executed action RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI) in 744.4249ms
+INFO  01:49:55 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:49:55 Request finished in 1059.5164ms 200 application/json; charset=utf-8
+INFO  01:50:27 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile/Upload  
+INFO  01:50:27 CORS policy execution successful.
+INFO  01:50:27 Request finished in 1.5431ms 204 
+INFO  01:50:27 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundarytGu7Wf0dfhfVprYe 492986
+INFO  01:50:27 CORS policy execution successful.
+INFO  01:50:27 Request finished in 2.5646ms 307 
+INFO  01:50:27 Connection id "0HLVTBUFEN04T", Request id "0HLVTBUFEN04T:00000002": the application completed without reading the entire request body.
+INFO  01:50:27 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile/Upload  
+INFO  01:50:27 CORS policy execution successful.
+INFO  01:50:27 Request finished in 0.9536ms 204 
+INFO  01:50:27 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundarytGu7Wf0dfhfVprYe 492986
+INFO  01:50:27 CORS policy execution successful.
+INFO  01:50:27 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:50:27 Route matched with {action = "UploadDocument", controller = "CreateProfile"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadDocument(Microsoft.AspNetCore.Http.IFormFile) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  01:50:27 Upload fileName displayed: 
+INFO  01:50:27 Executing ObjectResult, writing value of type '<>f__AnonymousType0`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+INFO  01:50:27 Executed action RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI) in 68.9387ms
+INFO  01:50:27 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:50:27 Request finished in 71.5ms 200 application/json; charset=utf-8
+INFO  01:50:57 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile/Upload  
+INFO  01:50:57 CORS policy execution successful.
+INFO  01:50:57 Request finished in 5.571ms 204 
+INFO  01:50:57 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundaryLbwdBpkUEEK1Rvum 4578
+INFO  01:50:57 CORS policy execution successful.
+INFO  01:50:57 Request finished in 1.261ms 307 
+INFO  01:50:57 Connection id "0HLVTBUFEN050", Request id "0HLVTBUFEN050:00000002": the application completed without reading the entire request body.
+INFO  01:50:57 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile/Upload  
+INFO  01:50:57 CORS policy execution successful.
+INFO  01:50:57 Request finished in 0.5084ms 204 
+INFO  01:50:57 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundaryLbwdBpkUEEK1Rvum 4578
+INFO  01:50:57 CORS policy execution successful.
+INFO  01:50:57 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:50:57 Route matched with {action = "UploadDocument", controller = "CreateProfile"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadDocument(Microsoft.AspNetCore.Http.IFormFile) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  01:50:57 Upload fileName displayed: 
+INFO  01:50:57 Executing ObjectResult, writing value of type '<>f__AnonymousType0`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+INFO  01:50:57 Executed action RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI) in 34.2508ms
+INFO  01:50:57 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:50:57 Request finished in 36.4588ms 200 application/json; charset=utf-8
+INFO  01:52:32 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  01:52:32 CORS policy execution successful.
+INFO  01:52:32 Request finished in 3.8659ms 307 
+INFO  01:52:32 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  01:52:32 CORS policy execution successful.
+INFO  01:52:32 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:52:32 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  01:52:32 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  01:52:32 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 135.7529ms
+INFO  01:52:32 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:52:32 Request finished in 142.1366ms 200 application/json; charset=utf-8
+INFO  01:52:46 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  01:52:46 CORS policy execution successful.
+INFO  01:52:46 Request finished in 1.2411ms 307 
+INFO  01:52:47 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  01:52:47 CORS policy execution successful.
+INFO  01:52:47 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:52:47 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  01:52:47 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  01:52:47 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 56.0898ms
+INFO  01:52:47 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:52:47 Request finished in 62.1371ms 200 application/json; charset=utf-8
+INFO  01:53:52 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  01:53:52 CORS policy execution successful.
+INFO  01:53:52 Request finished in 1.9221ms 307 
+INFO  01:53:52 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  01:53:52 CORS policy execution successful.
+INFO  01:53:52 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:53:52 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  01:53:52 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  01:53:52 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 45.3501ms
+INFO  01:53:52 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:53:52 Request finished in 49.9379ms 200 application/json; charset=utf-8
+INFO  01:53:54 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  01:53:54 CORS policy execution successful.
+INFO  01:53:54 Request finished in 0.9918ms 307 
+INFO  01:53:54 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  01:53:54 CORS policy execution successful.
+INFO  01:53:54 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:53:54 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  01:53:54 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  01:53:54 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 69.0337ms
+INFO  01:53:54 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:53:54 Request finished in 75.6179ms 200 application/json; charset=utf-8
+INFO  01:54:50 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  01:54:50 CORS policy execution successful.
+INFO  01:54:50 Request finished in 1.0909ms 307 
+INFO  01:54:50 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  01:54:50 CORS policy execution successful.
+INFO  01:54:50 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:54:50 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  01:54:50 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  01:54:50 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 39.7915ms
+INFO  01:54:50 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:54:50 Request finished in 42.2875ms 200 application/json; charset=utf-8
+INFO  01:55:07 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  01:55:07 CORS policy execution successful.
+INFO  01:55:07 Request finished in 0.9632ms 307 
+INFO  01:55:07 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  01:55:07 CORS policy execution successful.
+INFO  01:55:07 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:55:07 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  01:55:07 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  01:55:07 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 43.283ms
+INFO  01:55:07 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  01:55:07 Request finished in 45.2618ms 200 application/json; charset=utf-8
+INFO  01:55:25 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile/Upload  
+INFO  01:55:25 CORS policy execution successful.
+INFO  01:55:25 Request finished in 1.1189ms 204 
+INFO  01:55:25 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundaryodEBwqFBPXLNjHNy 508073
+INFO  01:55:25 CORS policy execution successful.
+INFO  01:55:25 Request finished in 3.4049ms 307 
+INFO  01:55:25 Connection id "0HLVTBUFEN05I", Request id "0HLVTBUFEN05I:00000002": the application completed without reading the entire request body.
+INFO  01:55:25 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile/Upload  
+INFO  01:55:25 CORS policy execution successful.
+INFO  01:55:25 Request finished in 0.538ms 204 
+INFO  01:55:25 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundaryodEBwqFBPXLNjHNy 508073
+INFO  01:55:25 CORS policy execution successful.
+INFO  01:55:25 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:55:25 Route matched with {action = "UploadDocument", controller = "CreateProfile"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadDocument(Microsoft.AspNetCore.Http.IFormFile) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  01:55:25 Upload fileName displayed: 
+INFO  01:55:25 Executing ObjectResult, writing value of type '<>f__AnonymousType0`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+INFO  01:55:25 Executed action RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI) in 99.9076ms
+INFO  01:55:25 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:55:25 Request finished in 106.4047ms 200 application/json; charset=utf-8
+INFO  01:56:04 Request starting HTTP/1.1 OPTIONS http://localhost:5000/api/CreateProfile/Upload  
+INFO  01:56:04 CORS policy execution successful.
+INFO  01:56:04 Request finished in 0.6862ms 204 
+INFO  01:56:04 Request starting HTTP/1.1 POST http://localhost:5000/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundary81KRZVtpxBS055ru 118747
+INFO  01:56:04 CORS policy execution successful.
+INFO  01:56:04 Request finished in 1.5735ms 307 
+INFO  01:56:04 Connection id "0HLVTBUFEN05L", Request id "0HLVTBUFEN05L:00000002": the application completed without reading the entire request body.
+INFO  01:56:04 Request starting HTTP/2 OPTIONS https://localhost:5001/api/CreateProfile/Upload  
+INFO  01:56:04 CORS policy execution successful.
+INFO  01:56:04 Request finished in 0.7715ms 204 
+INFO  01:56:04 Request starting HTTP/2 POST https://localhost:5001/api/CreateProfile/Upload multipart/form-data; boundary=----WebKitFormBoundary81KRZVtpxBS055ru 118747
+INFO  01:56:04 CORS policy execution successful.
+INFO  01:56:04 Executing endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:56:04 Route matched with {action = "UploadDocument", controller = "CreateProfile"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadDocument(Microsoft.AspNetCore.Http.IFormFile) on controller RecruitmentAPI.Controllers.CreateProfileController (RecruitmentAPI).
+INFO  01:56:04 Upload fileName displayed: 
+INFO  01:56:04 Executing ObjectResult, writing value of type '<>f__AnonymousType0`3[[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'.
+INFO  01:56:04 Executed action RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI) in 18.2476ms
+INFO  01:56:04 Executed endpoint 'RecruitmentAPI.Controllers.CreateProfileController.UploadDocument (RecruitmentAPI)'
+INFO  01:56:04 Request finished in 21.9247ms 200 application/json; charset=utf-8
+INFO  02:06:00 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:06:00 CORS policy execution successful.
+INFO  02:06:00 Request finished in 0.8767ms 307 
+INFO  02:06:00 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:06:00 CORS policy execution successful.
+INFO  02:06:00 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:06:00 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:06:00 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:06:00 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 45.6465ms
+INFO  02:06:00 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:06:00 Request finished in 48.4352ms 200 application/json; charset=utf-8
+INFO  02:06:55 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:06:55 CORS policy execution successful.
+INFO  02:06:55 Request finished in 0.6389ms 307 
+INFO  02:06:55 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:06:55 CORS policy execution successful.
+INFO  02:06:55 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:06:55 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:06:55 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:06:55 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 50.9048ms
+INFO  02:06:55 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:06:55 Request finished in 53.5393ms 200 application/json; charset=utf-8
+INFO  02:07:23 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:07:23 CORS policy execution successful.
+INFO  02:07:23 Request finished in 0.5899ms 307 
+INFO  02:07:23 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:07:23 CORS policy execution successful.
+INFO  02:07:23 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:07:23 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:07:23 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:07:23 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 74.3349ms
+INFO  02:07:23 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:07:23 Request finished in 76.7937ms 200 application/json; charset=utf-8
+INFO  02:08:22 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:08:22 CORS policy execution successful.
+INFO  02:08:22 Request finished in 0.914ms 307 
+INFO  02:08:22 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:08:22 CORS policy execution successful.
+INFO  02:08:22 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:08:22 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:08:22 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:08:22 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 49.2048ms
+INFO  02:08:22 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:08:22 Request finished in 54.3171ms 200 application/json; charset=utf-8
+INFO  02:08:49 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:08:49 CORS policy execution successful.
+INFO  02:08:49 Request finished in 0.3565ms 307 
+INFO  02:08:49 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:08:49 CORS policy execution successful.
+INFO  02:08:49 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:08:49 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:08:49 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:08:49 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 43.3397ms
+INFO  02:08:49 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:08:49 Request finished in 45.5741ms 200 application/json; charset=utf-8
+INFO  02:12:15 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:12:15 CORS policy execution successful.
+INFO  02:12:15 Request finished in 0.4646ms 307 
+INFO  02:12:15 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:12:15 CORS policy execution successful.
+INFO  02:12:15 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:12:15 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:12:15 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:12:15 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 57.45ms
+INFO  02:12:15 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:12:15 Request finished in 60.0892ms 200 application/json; charset=utf-8
+INFO  02:55:19 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:55:19 CORS policy execution successful.
+INFO  02:55:19 Request finished in 65.1318ms 307 
+INFO  02:55:20 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:55:20 CORS policy execution successful.
+INFO  02:55:20 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:55:20 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:55:20 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:55:20 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 223.2087ms
+INFO  02:55:20 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:55:20 Request finished in 225.0211ms 200 application/json; charset=utf-8
+INFO  02:57:53 Request starting HTTP/1.1 GET http://localhost:5000/api/Common?id=Countries  
+INFO  02:57:53 CORS policy execution successful.
+INFO  02:57:53 Request finished in 1.3724ms 307 
+INFO  02:57:54 Request starting HTTP/2 GET https://localhost:5001/api/Common?id=Countries  
+INFO  02:57:54 CORS policy execution successful.
+INFO  02:57:54 Executing endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:57:54 Route matched with {action = "Get", controller = "Common"}. Executing controller action with signature RecruitmentAPI.Models.CommonResponseModel Get(System.String) on controller RecruitmentAPI.Controllers.CommonController (RecruitmentAPI).
+INFO  02:57:54 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.CommonResponseModel'.
+INFO  02:57:54 Executed action RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI) in 41.7196ms
+INFO  02:57:54 Executed endpoint 'RecruitmentAPI.Controllers.CommonController.Get (RecruitmentAPI)'
+INFO  02:57:54 Request finished in 47.2377ms 200 application/json; charset=utf-8
+INFO  03:02:35 Application is shutting down...
+INFO  03:05:26 Application started. Press Ctrl+C to shut down.
+INFO  03:05:26 Hosting environment: Development
+INFO  03:05:26 Content root path: D:\Projects\RecruitmentAPI\RecruitmentAPI
+INFO  03:05:26 Request starting HTTP/2.0 GET https://localhost:44338/weatherforecast  
+INFO  03:05:27 Request finished in 450.1937ms 404 
+INFO  03:07:08 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration  
+INFO  03:07:08 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  03:07:09 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  03:07:52 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  03:07:54 Executed DbCommand (166ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT `c`.`candidate_id`, `c`.`address`, `c`.`AdharNumber`, `c`.`created_by`, `c`.`created_date`, `c`.`email`, `c`.`first_name`, `c`.`Gender`, `c`.`last_name`, `c`.`Middle_Name`, `c`.`modified_by`, `c`.`modified_date`, `c`.`Nationality`, `c`.`Passport_No`, `c`.`Per_Address`, `c`.`phone_number`, `c`.`Profile_Pic`, `c`.`pwd`, `c`.`Resume`, `c`.`Temp_Address`
+FROM `candidate_data` AS `c`
+WHERE `c`.`candidate_id` = @__id_0
+LIMIT 1
+INFO  03:08:04 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  03:08:04 Executed action RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI) in 55573.4006ms
+INFO  03:08:04 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  03:08:04 Request finished in 55970.6601ms 200 application/json; charset=utf-8
+INFO  03:08:37 Request starting HTTP/1.1 GET https://localhost:44338/api/Registration?id=1  
+INFO  03:08:37 Executing endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  03:08:37 Route matched with {action = "Get", controller = "Registration"}. Executing controller action with signature RecruitmentAPI.Models.ResponseModel Get(Int32) on controller RecruitmentAPI.Controllers.RegistrationController (RecruitmentAPI).
+INFO  03:08:41 Entity Framework Core 3.1.3 initialized 'hris_recruitment_dbContext' using provider 'Pomelo.EntityFrameworkCore.MySql' with options: ServerVersion 5.7.29 MySql 
+INFO  03:08:41 Executed DbCommand (85ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT `c`.`candidate_id`, `c`.`address`, `c`.`AdharNumber`, `c`.`created_by`, `c`.`created_date`, `c`.`email`, `c`.`first_name`, `c`.`Gender`, `c`.`last_name`, `c`.`Middle_Name`, `c`.`modified_by`, `c`.`modified_date`, `c`.`Nationality`, `c`.`Passport_No`, `c`.`Per_Address`, `c`.`phone_number`, `c`.`Profile_Pic`, `c`.`pwd`, `c`.`Resume`, `c`.`Temp_Address`
+FROM `candidate_data` AS `c`
+WHERE `c`.`candidate_id` = @__id_0
+LIMIT 1
+INFO  03:08:41 Executing ObjectResult, writing value of type 'RecruitmentAPI.Models.ResponseModel'.
+INFO  03:08:41 Executed action RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI) in 4421.7445ms
+INFO  03:08:41 Executed endpoint 'RecruitmentAPI.Controllers.RegistrationController.Get (RecruitmentAPI)'
+INFO  03:08:41 Request finished in 4452.2679ms 200 application/json; charset=utf-8

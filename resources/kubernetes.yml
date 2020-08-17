@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: project-deploy
+  namespace: caap-dev
+  labels:
+    app: group-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: group-app
+  template:
+    metadata:
+      labels:
+        app: group-app
+    spec:
+      containers:
+      - name: projectcontainer
+        image: imageprivate:version
+        imagePullPolicy: "Always"
+        ports:
+        - containerPort: containerport
+      imagePullSecrets:
+      - name: regcred
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: project-nodeport
+  namespace: caap-dev
+  labels:
+    app: group-app
+spec:
+  selector:
+    app: group-app
+  type: NodePort
+  ports:
+  - nodePort: outport
+    port: containerport
+    targetPort: containerport

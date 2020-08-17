@@ -1,0 +1,16 @@
+---
+- hosts: localhost
+  tasks:
+   - name: Executing kubernetes definition file
+     block:
+       - name: Trying Kubectl Applying..
+         #shell: kubectl replace --force -f kubernetes.yml --record=true
+         shell: kubectl apply -f kubernetes.yml --record=true
+         register: deployStatus
+     rescue:
+       - name: Rescued!! kubectl Create..
+         shell: kubectl create -f kubernetes.yml --record=true
+         register: deployStatus
+
+
+

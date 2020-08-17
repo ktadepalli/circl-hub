@@ -1,0 +1,16 @@
+---
+- hosts: localhost
+  tasks:
+   - name: Executing kubernetes definition file
+     block:
+       - name: Trying Kubectl Recreate..
+         shell: kubectl replace --force -f kubernetes_nginx.yml
+         #shell: kubectl delete -f kubernetes_nginx.yml && kubectl apply -f kubernetes_nginx.yml
+         register: deployStatus
+     rescue:
+       - name: Rescued!! kubectl Applying..
+         shell: kubectl apply -f kubernetes_nginx.yml
+         register: deployStatus
+
+
+
