@@ -1,21 +1,20 @@
-version: 2.1
 orbs:
-  aws-cli: circleci/aws-cli@1.2.1
-jobs:
-  build:
-    docker: 
-     - image: circleci/node:4.8.2 # the primary container, where your job's commands are run
-     #- image: kenani/docker_apps
-    steps:
-      - checkout # check out the code in the project directory
-      - setup_remote_docker
-      - run: echo "hello world"
-      - run: 
-          name: check awscli 
-          command: aws configure
-      - run: |
-          #docker build -t testkan .
-          docker build -t testkan:01 .
-          docker login -u 'kenani' -p "449Kenny."
-          docker tag testkan:01 kenani/testkan:01
-          docker push kenani/testkan:01
+  aws-ecr: circleci/aws-ecr@6.12.2
+version: 2.1
+workflows:
+  build_and_push_image:
+    jobs:
+      - aws-ecr/build-and-push-image:
+          account-url: "543820583940.dkr.ecr.us-east-1.amazonaws.com"
+          aws-access-key-id: $aws_access
+          aws-secret-access-key: $secret_key
+          context: myContext
+          create-repo: true
+          dockerfile: Dockerfile
+          no-output-timeout: 20m
+          path: .
+          profile-name: myProfileName
+          region: us-east-1
+          repo: myECRRepository
+          skip-when-tags-exist: false
+          tag: 'latest,myECRRepoTag'
