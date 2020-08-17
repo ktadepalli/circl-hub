@@ -1,4 +1,6 @@
 version: 2.1
+orbs:
+  aws-cli: circleci/aws-cli@1.2.1
 jobs:
   build:
     docker: 
@@ -9,8 +11,8 @@ jobs:
       - setup_remote_docker
       - run: echo "hello world"
       - run: 
-          name: Install awscli 
-          command: sudo pip install awscli
+          name: check awscli 
+          command: aws configure
       - run: |
           #docker build -t testkan .
           docker build -t testkan:01 .
