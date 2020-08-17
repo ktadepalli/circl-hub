@@ -2,9 +2,9 @@ orbs:
   aws-ecr: circleci/aws-ecr@6.12.2
 version: 2.1
 workflows:
-  build_and_push_image:
+  build:
     jobs:
-      - aws-ecr/build-and-push-image:
+      - aws-ecr/build:
           account-url: env_url
           aws-access-key-id: env_access
           aws-secret-access-key: env_secret
