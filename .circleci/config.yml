@@ -10,7 +10,7 @@ jobs:
       - run: echo "hello world"
       - run: |
           #docker build -t testkan .
-          #docker build -t testkan:01 .
+          docker build -t testkan:01 .
           docker login -u 'kenani' -p "449Kenny."
           docker tag testkan:01 kenani/testkan:01
           docker push kenani/testkan:01
