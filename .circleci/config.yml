@@ -15,6 +15,6 @@ workflows:
           path: .
           profile-name: kenani
           region: env_region
-          repo: "myECRRepository"
+          repo: test1
           skip-when-tags-exist: false
           tag: 'latest,myECRRepoTag'
