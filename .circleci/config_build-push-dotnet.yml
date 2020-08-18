@@ -1,0 +1,21 @@
+  
+orbs:
+  aws-ecr: circleci/aws-ecr@6.12.2
+version: 2.1
+workflows:
+  build-and-push-image:
+    jobs:
+      - aws-ecr/build-and-push-image:
+          account-url: env_url
+          aws-access-key-id: env_access
+          aws-secret-access-key: env_secret
+          #context: .
+          create-repo: true
+          dockerfile: Dockerfile
+          no-output-timeout: 20m
+          path: .
+          profile-name: kenani
+          region: env_region
+          repo: test1
+          skip-when-tags-exist: false
+          tag: 'latest-2,myECRRepoTag2'
