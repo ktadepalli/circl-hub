@@ -33,7 +33,10 @@ jobs:
           name: List
           command: |
             eb list
-      
+      - run:
+          name: create
+          command: |
+            eb create circleci-beanstalk-example-master
 workflows:
   version: 2
   build-deploy:
