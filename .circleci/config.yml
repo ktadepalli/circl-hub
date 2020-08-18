@@ -1,40 +1,35 @@
-version: 2.1
-
-orbs:
-  windows: circleci/windows@2.2.0
-
+version: 2
 jobs:
-  test:
-    description: Setup and run application tests
-    executor:
-      name: windows/default
+  deploy:
+    docker:
+      - image: circleci/python:2.7
+    working_directory: ~/repo
     steps:
       - checkout
       - run:
-          name: "Install project dependencies"
-          command: dotnet.exe restore
-    
+          name: Install awscli
+          command: |
+            sudo pip install awsebcli --upgrade
       - run:
-          name: "Run Application Tests"
-          command: dotnet.exe test -v n --results-directory:test_coverage --collect:"Code Coverage"
+          name: Create AWS credentials manually
+          command: |
+            mkdir ~/.aws
+            touch ~/.aws/config
+            chmod 600 ~/.aws/config
+            echo "[profile kenani]" > ~/.aws/config
+            echo "aws_access_key_id=$AWS_ACCESS_KEY_ID" >> ~/.aws/config
+            echo "aws_secret_access_key=$AWS_SECRET_ACCESS_KEY" >> ~/.aws/config
       - run:
-          name: "Print Working Directory"
-          command: pwd
-      - store_artifacts:
-          path: C:\Users\circleci\project\test_coverage
-  build:
-    description: Build application with Release configuration
-    executor:
-      name: windows/default
-    steps:
-      - checkout
-      - run:
-          name: "Build Application according to some given configuration"
-          command: dotnet.exe build --configuration Release
+          name: Deploy to EB if branch is Master
+          command: |
+		  eb list
 workflows:
-  test_and_build:
+  version: 2
+  build-deploy:
     jobs:
-      - test
-      - build:
-          requires:
-            - test
+      - deploy:
+          filters:
+            branches:
+              only:
+                - master
+                - develop
