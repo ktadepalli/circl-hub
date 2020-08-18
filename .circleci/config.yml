@@ -34,9 +34,13 @@ jobs:
           command: |
             eb list
       - run:
-          name: create
+          name: deploy
           command: |
-            eb create circleci-beanstalk-example-master1
+            eb deploy circleci-beanstalk-example-master
+      #- run:
+       #   name: create
+        #  command: |
+         #   eb create circleci-beanstalk-example-master1
 workflows:
   version: 2
   build-deploy:
