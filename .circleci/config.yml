@@ -24,12 +24,10 @@ jobs:
           command: |
            # eb init circleci-beanstalk-example -r us-west-1 --platform Docker || yes 
             eb init --region us-east-1 --platform Docker circleci-beanstalk-example
+            eb create circleci-beanstalk-example-master
            # eb use circleci-beanstalk-example --profile kenani --region us-east-1
            # eb deploy -v --staged --profile kenani
-      - run:
-          name: List
-          command: |
-            ll
+      
 workflows:
   version: 2
   build-deploy:
