@@ -22,7 +22,7 @@ jobs:
       - run:
           name: Deploy to EB if branch is Master
           command: |
-            eb list
+            eb init
 workflows:
   version: 2
   build-deploy:
