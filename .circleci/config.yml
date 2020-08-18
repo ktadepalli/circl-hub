@@ -1,20 +1,40 @@
-orbs:
-  aws-ecr: circleci/aws-ecr@6.12.2
 version: 2.1
+
+orbs:
+  windows: circleci/windows@2.2.0
+
+jobs:
+  test:
+    description: Setup and run application tests
+    executor:
+      name: windows/default
+    steps:
+      - checkout
+      - run:
+          name: "Install project dependencies"
+          command: dotnet.exe restore
+    
+      - run:
+          name: "Run Application Tests"
+          command: dotnet.exe test -v n --results-directory:test_coverage --collect:"Code Coverage"
+      - run:
+          name: "Print Working Directory"
+          command: pwd
+      - store_artifacts:
+          path: C:\Users\circleci\project\test_coverage
+  build:
+    description: Build application with Release configuration
+    executor:
+      name: windows/default
+    steps:
+      - checkout
+      - run:
+          name: "Build Application according to some given configuration"
+          command: dotnet.exe build --configuration Release
 workflows:
-  build-and-push-image:
+  test_and_build:
     jobs:
-      - aws-ecr/build-and-push-image:
-          account-url: env_url
-          aws-access-key-id: env_access
-          aws-secret-access-key: env_secret
-          #context: .
-          create-repo: true
-          dockerfile: Dockerfile
-          no-output-timeout: 20m
-          path: .
-          profile-name: kenani
-          region: env_region
-          repo: test1
-          skip-when-tags-exist: false
-          tag: 'latest-2,myECRRepoTag2'
+      - test
+      - build:
+          requires:
+            - test
