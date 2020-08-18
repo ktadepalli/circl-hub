@@ -22,7 +22,8 @@ jobs:
       - run:
           name: Deploy to EB if branch is Master
           command: |
-            eb init
+            eb use circleci-beanstalk-example --profile kenani
+            eb deploy -v --staged --profile kenani
 workflows:
   version: 2
   build-deploy:
