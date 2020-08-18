@@ -22,7 +22,7 @@ jobs:
       - run:
           name: Deploy to EB if branch is Master
           command: |
-            eb use circleci-beanstalk-example --profile kenani
+            eb use circleci-beanstalk-example --profile kenani --region us-east-1
             eb deploy -v --staged --profile kenani
 workflows:
   version: 2
