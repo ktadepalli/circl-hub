@@ -22,7 +22,8 @@ jobs:
       - run:
           name: Deploy to EB if branch is Master
           command: |
-            eb init circleci-beanstalk-example -r us-west-1 --platform Docker || yes 
+           # eb init circleci-beanstalk-example -r us-west-1 --platform Docker || yes 
+            eb init --region us-east-1 --platform Docker circleci-beanstalk-example
             eb use circleci-beanstalk-example --profile kenani --region us-east-1
             eb deploy -v --staged --profile kenani
 workflows:
